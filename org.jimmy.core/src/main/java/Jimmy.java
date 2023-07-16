@@ -6,4 +6,8 @@ public class Jimmy {
     public static void sayRocky() {
         System.out.println("ROCKY");
     }
+
+    public static void sayCEO() {
+        System.out.println("Im the CEO of Delver Steel, TX");
+    }
 }
